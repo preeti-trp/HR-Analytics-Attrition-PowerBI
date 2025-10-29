@@ -88,8 +88,6 @@ Integration with real-time HR data via SQL.
 
 HR-Analytics-Attrition-PowerBI/
 
-│
-
 ├── README.md               
 
 ├── dataset/                  
