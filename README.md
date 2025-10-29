@@ -1,6 +1,10 @@
-💼 HR Analytics Dashboard (Attrition Analysis)
+💼 **HR Analytics Dashboard (Attrition Analysis)**
 
-📘 Overview
+👉 View Interactive Dashboard on Power BI- 
+
+https://app.powerbi.com/view?r=eyJrIjoiOTQyNGFmM2QtNjIyYi00ZjM1LThkMjEtOGVmNTk2ZjllMWQ1IiwidCI6IjFmZTA3YjRhLTcyNjItNDc1ZC1hMGZjLWY0NDEyODdmYWZlMCJ9
+
+📘 **Overview**
 
 This Power BI project analyzes employee attrition to identify key factors influencing turnover.
 Using HR data, the dashboard explores attrition trends by education, age group, marital status, job role, job level, years at company, and time since last promotion.
