@@ -61,7 +61,9 @@ Attrition by Overtime – detecting the attrition by overtime work
 
 - Departments like Sales and R&D show above-average turnover. They face the most attrition.
 
-- Employees with longer promotion gaps (>=3 years) have lower attrition.
+- Employees with longer promotion gaps (>=3 years) have lower attrition.Attrition risk is highest within 1–2 years since last promotion.
+This could mean that employees leave soon after being promoted, possibly when they realize the new role or workload doesn’t meet expectations.
+After 3 years since the last promotion, attrition declines significantly — perhaps because those who remain are more stable, satisfied, or senior.
 
 - Married employees exhibit lower attrition rates than single employees.
 
