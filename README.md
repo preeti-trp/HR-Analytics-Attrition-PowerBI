@@ -1,4 +1,5 @@
 💼 HR Analytics Dashboard (Attrition Analysis)
+
 📘 Overview
 
 This Power BI project analyzes employee attrition to identify key factors influencing turnover.
@@ -82,5 +83,37 @@ Monitor attrition KPIs in real time.
 Predictive model for attrition using Python.
 
 Integration with real-time HR data via SQL.
+
+**Folder Structure**
+
+HR-Analytics-Attrition-PowerBI/
+
+│
+
+├── README.md               
+
+├── dataset/                  
+
+│   └── HR_Analysis.csv
+
+├── visuals/                  
+
+│   ├── Attrition By Age.png
+
+│   ├── Attrition by JobRole and level.png
+
+│   └── Department vs Attrition.png
+
+│   └── Dashboard Main.png
+    
+│   └── Years at Company vs Attrition.png
+    
+├── pbix/                     
+
+│   └── Attrition Analysis.pbix
+
+└── insights/                 
+
+│   └── Key Insights.pdf
 
 
